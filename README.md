@@ -1,3 +1,3 @@
-# python_test
+This is the python beginning course
 
-This is the first python projects which runs sample programs.
+![](media/pythonImage1.jpeg)
